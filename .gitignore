@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.envrc
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.manifest
+*.spec
+
+# Editor and system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# uv / pip / cache
+.uv/
+uv.lock
+
+# Logs or temporary output
+*.log
