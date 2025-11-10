@@ -1,6 +1,6 @@
 [project]
 name = "tinypdf"
-version = "1.0.0"
+version = "1.0.1"
 description = "Lightweight CLI tool to compress PDF files using Ghostscript."
 readme = "README.md"
 authors = [
